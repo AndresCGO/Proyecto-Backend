@@ -13,7 +13,7 @@ class CreateSkinsTable extends Migration
      */
     public function up()
     {
-        Schema::create('skins', function (Blueprint $table) {
+        Schema::create('skin', function (Blueprint $table) {
             $table->string('nombre_imagen');
             $table->string('nombre_paquete');
             $table->float('precio');
