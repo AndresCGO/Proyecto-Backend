@@ -6,7 +6,6 @@ Author URL: http://w3layouts.com
 <html lang="en">
 
 <head>
-    <script src="{{ URL::asset('js/main.js'); }}"></script>
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -17,7 +16,7 @@ Author URL: http://w3layouts.com
     <link href="//fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <!-- //google-fonts -->
     <!-- Template CSS Style link -->
-    <link rel="stylesheet" href="{{ URL::asset('css/style-starter.css'); }}">
+    <link rel="stylesheet" href="{{ asset('css/style-starter.css'); }}">
 </head>
 
 <body>
@@ -108,7 +107,7 @@ Author URL: http://w3layouts.com
                                         <div class="slideshow__slide-background background-absolute">
                                             <div class="slideshow__slide-image-wrap background-absolute">
                                                 <div class="slideshow__slide-image background-absolute"
-                                                    style="background-image: url('assets/images/personaje.jpg')">
+                                                    style="background-image: url('images/personaje.jpg')">
                                                 </div>
                                             </div>
                                         </div>
@@ -138,7 +137,7 @@ Author URL: http://w3layouts.com
                                         <div class="slideshow__slide-background background-absolute">
                                             <div class="slideshow__slide-image-wrap background-absolute">
                                                 <div class="slideshow__slide-image background-absolute"
-                                                    style="background-image: url('assets/images/armas-valorant.jpg')">
+                                                    style="background-image: url('images/armas-valorant.jpg')">
                                                 </div>
                                             </div>
                                         </div>
@@ -169,7 +168,7 @@ Author URL: http://w3layouts.com
                                         <div class="slideshow__slide-background background-absolute">
                                             <div class="slideshow__slide-image-wrap background-absolute">
                                                 <div class="slideshow__slide-image background-absolute"
-                                                    style="background-image: url('assets/images/mapas-valorant.jpg')">
+                                                    style="background-image: url('images/mapas-valorant.jpg')">
                                                 </div>
                                             </div>
                                         </div>
@@ -241,7 +240,7 @@ Author URL: http://w3layouts.com
         <div class="container py-md-5 py-sm-4">
             <div class="row">
                 <div class="col-lg-6 left-wthree-img mb-lg-0 mb-md-5 mb-4">
-                    <img class="img-fluid img-responsive" src="assets/images/skin-tier.png" alt=" ">
+                    <img class="img-fluid img-responsive" src="images/skin-tier.png" alt=" ">
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
                     <h6 class="left-text-design">Armas </h6>
@@ -254,7 +253,7 @@ Author URL: http://w3layouts.com
             </div>
             <div class="row mt-5 pt-lg-4">
                 <div class="col-lg-6 left-wthree-img mb-lg-0 mb-md-5 mb-4 order-lg-last">
-                    <img class="img-fluid img-responsive" src="assets/images/star.jpg" alt=" ">
+                    <img class="img-fluid img-responsive" src="images/star.jpg" alt=" ">
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
                     <h6 class="left-text-design">Personajes </h6>
@@ -276,7 +275,7 @@ Author URL: http://w3layouts.com
                 <div class="col-lg-3 col-sm-6 feature-1">
                     <div class="feature-body">
                         <div class="feature-images pb-sm-3 pb-1">
-                            <img src="assets/images/triangulo.png" alt="" class="img-fluid">
+                            <img src="images/triangulo.png" alt="" class="img-fluid">
                         </div>
                         <div class="feature-info mt-3">
                             <a href="about.html">
@@ -292,7 +291,7 @@ Author URL: http://w3layouts.com
                 <div class="col-lg-3 col-sm-6 feature-2 mt-sm-0 mt-5">
                     <div class="feature-body">
                         <div class="feature-images pb-sm-3 pb-1">
-                            <img src="assets/images/personajes-icono.png" alt="" class="img-fluid">
+                            <img src="images/personajes-icono.png" alt="" class="img-fluid">
                         </div>
                         <div class="feature-info mt-3">
                             <a href="about.html">
@@ -306,7 +305,7 @@ Author URL: http://w3layouts.com
                 <div class="col-lg-3 col-sm-6 feature-3 mt-lg-0 mt-5">
                     <div class="feature-body">
                         <div class="feature-images pb-sm-3 pb-1">
-                            <img src="assets/images/Mapa.png" alt="" class="img-fluid">
+                            <img src="images/Mapa.png" alt="" class="img-fluid">
                         </div>
                         <div class="feature-info mt-3">
                             <a href="about.html">
@@ -320,7 +319,7 @@ Author URL: http://w3layouts.com
                 <div class="col-lg-3 col-sm-6 feature-3 mt-lg-0 mt-5">
                     <div class="feature-body">
                         <div class="feature-images pb-sm-3 pb-1">
-                            <img src="assets/images/fusil.png" alt="" class="img-fluid">
+                            <img src="images/fusil.png" alt="" class="img-fluid">
                         </div>
                         <div class="feature-info mt-3">
                             <a href="about.html">
@@ -371,7 +370,7 @@ Author URL: http://w3layouts.com
                     </div>
                 </div>
                 <div class="col-lg-5 mt-lg-0 mt-5">
-                    <img src="assets/images/reaver-collection.png" alt="" class="img-fluid img-responsive">
+                    <img src="images/reaver-collection.png" alt="" class="img-fluid img-responsive">
                 </div>
             </div>
         </div>
@@ -392,7 +391,7 @@ Author URL: http://w3layouts.com
             <div class="owl-news owl-carousel owl-theme py-4">
                 <div class="item">
                     <div class="news-img position-relative">
-                        <a href="#"><img src="assets/images/cypher.jpg" class="img-fluid img-responsive"
+                        <a href="#"><img src="images/cypher.jpg" class="img-fluid img-responsive"
                                 alt="news image"></a>
                         <div class="title-wrap">
                             <a href="#">
@@ -403,7 +402,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="item">
                     <div class="news-img">
-                        <a href="#"><img src="assets/images/fenix.jpg" class="img-fluid img-responsive"
+                        <a href="#"><img src="images/fenix.jpg" class="img-fluid img-responsive"
                                 alt="news image"></a>
                         <div class="title-wrap">
                             <a href="#">
@@ -414,7 +413,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="item">
                     <div class="news-img">
-                        <a href="#"><img src="assets/images/viper.jpg" class="img-fluid img-responsive"
+                        <a href="#"><img src="images/viper.jpg" class="img-fluid img-responsive"
                                 alt="news image"></a>
                         <div class="title-wrap">
                             <a href="#">
@@ -425,7 +424,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="item">
                     <div class="news-img">
-                        <a href="#"><img src="assets/images/brimstone.jpg" class="img-fluid img-responsive"
+                        <a href="#"><img src="images/brimstone.jpg" class="img-fluid img-responsive"
                                 alt="news image"></a>
                         <div class="title-wrap">
                             <a href="#">
@@ -436,7 +435,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="item">
                     <div class="news-img">
-                        <a href="#"><img src="assets/images/sova.jpg" class="img-fluid img-responsive"
+                        <a href="#"><img src="images/sova.jpg" class="img-fluid img-responsive"
                                 alt="news image"></a>
                         <div class="title-wrap">
                             <a href="#">
@@ -447,7 +446,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="item">
                     <div class="news-img">
-                        <a href="#"><img src="assets/images/sage.jpg" class="img-fluid img-responsive"
+                        <a href="#"><img src="images/sage.jpg" class="img-fluid img-responsive"
                                 alt="news image"></a>
                         <div class="title-wrap">
                             <a href="#">
@@ -481,6 +480,7 @@ Author URL: http://w3layouts.com
                             <ul>
                                 <li><a href="services.html">andresc.gomez@upb.edu.co</a></li>
                                 <li><a href="services.html">daniel.moralesr@upb.edu.co</a></li>
+                                <li><a href="services.html">samir.colpas@upb.edu.co</a></li>
                             </ul>
                         </div>
                     </div>
@@ -525,19 +525,19 @@ Author URL: http://w3layouts.com
     <!-- //move top -->
 
     <!-- common jquery plugin -->
-    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="{{ asset('js/jquery-3.3.1.min.js'); }}"></script>
     <!-- //common jquery plugin -->
 
     <!-- banner slider -->
-    <script src="assets/js/slideshow-slider.js"></script>
+    <script src="{{ asset('js/slideshow-slider.js'); }}"></script>
     <!-- //banner slider -->
 
     <!-- counter for stats -->
-    <script src="assets/js/counter.js"></script>
+    <script src="{{ asset('js/counter.js'); }}"></script>
     <!-- //counter for stats -->
 
     <!-- pets section -->
-    <script src="assets/js/owl.carousel.js"></script>
+    <script src="{{ asset('js/owl.carousel.js'); }}"></script>
 
     <script>
         $(document).ready(function () {
@@ -578,7 +578,7 @@ Author URL: http://w3layouts.com
     <!-- //pets section -->
 
     <!-- theme switch js (light and dark)-->
-    <script src="assets/js/theme-change.js"></script>
+    <script src="{{ asset('js/theme-change.js'); }}"></script>
     <script>
         function autoType(elementClass, typingSpeed) {
             var thhis = $(elementClass);
@@ -657,7 +657,7 @@ Author URL: http://w3layouts.com
     <!-- //disable body scroll which navbar is in active -->
 
     <!--bootstrap-->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="{{ asset('js/bootstrap.min.js'); }}"></script>
     <!-- //bootstrap-->
     <!-- //Js scripts -->
 
