@@ -4,13 +4,13 @@
                             <a class="nav-link" href="{{route('/')}}">Inicio <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.blade.php">API Pokemon</a>
+                            <a class="nav-link" href="{{route('/API')}}">API Pokemon</a>
                         </li>
                         <li class="nav-item">
-                            <a id="armas" class="nav-link" href="services.blade.php">Armas</a>
+                            <a id="armas" class="nav-link" href="{{route('/Armas')}}">Armas</a>
                         </li>
                         <li class="nav-item">
-                            <a id="personajes" class="nav-link" href="contact.blade.php">Personajes</a>
+                            <a id="personajes" class="nav-link" href="{{route('/Personajes')}}">Personajes</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="login.html">Ingresar</a>

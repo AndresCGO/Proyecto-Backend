@@ -19,11 +19,11 @@ use App\Http\Controllers\APIController;
 
 Route::get('/', [App\Http\Controllers\IndexController::class, '__invoke'])->name('/');
 
-Route::get('/', [App\Http\Controllers\APIController::class, '__invoke'])->name('/API');
+Route::get('/API', [App\Http\Controllers\APIController::class, '__invoke'])->name('/API');
 
-Route::get('/', [App\Http\Controllers\PersonajesController::class, '__invoke'])->name('/Personajes');
+Route::get('/Personajes', [App\Http\Controllers\PersonajesController::class, '__invoke'])->name('/Personajes');
 
-Route::get('/', [App\Http\Controllers\ArmasController::class, '__invoke'])->name('/Armas');
+Route::get('/Armas', [App\Http\Controllers\ArmasController::class, '__invoke'])->name('/Armas');
 
 
 Route::get('/dashboard', function () {
