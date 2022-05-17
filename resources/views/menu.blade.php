@@ -1,16 +1,16 @@
 <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                     <ul class="navbar-nav ml-lg-auto">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="#">Inicio <span class="sr-only">(current)</span></a>
+                        <li class="nav-item">
+                            <a class="nav-link" href="index.blade.php">Inicio <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">API Pokemon</a>
+                            <a class="nav-link" href="about.blade.php">API Pokemon</a>
                         </li>
                         <li class="nav-item">
-                            <a id="armas" class="nav-link">Armas</a>
+                            <a id="armas" class="nav-link" href="services.blade.php">Armas</a>
                         </li>
                         <li class="nav-item">
-                            <a id="personajes" class="nav-link" >Personajes</a>
+                            <a id="personajes" class="nav-link" href="contact.blade.php">Personajes</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="login.html">Ingresar</a>
