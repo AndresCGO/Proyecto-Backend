@@ -10,15 +10,14 @@ Author URL: http://w3layouts.com
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>StarMatch - API Pokemon</title>
-    <script src="assets/js/main.js"></script>
-    <script src="assets/js/apiinteractivo.js"></script>
+    <script src="{{ asset('js/apiinteractivo.js'); }}"s></script>
     <!-- google-fonts -->
     <link href="//fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link href="//fonts.googleapis.com/css2?family=Halant:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link href="//fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <!-- //google-fonts -->
     <!-- Template CSS Style link -->
-    <link rel="stylesheet" href="assets/css/style-starter.css">
+    <link rel="stylesheet" href="{{ asset('css/style-starter.css'); }}">
 </head>
 
 <body>
@@ -27,7 +26,7 @@ Author URL: http://w3layouts.com
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg stroke">
                 <h1>
-                    <a class="navbar-brand d-flex align-items-center" href="index.html">
+                    <a class="navbar-brand d-flex align-items-center" href="{{route('/')}}">
                         StarMatch</a>
                 </h1>
                 <!-- if logo is image enable this   
@@ -103,7 +102,7 @@ Author URL: http://w3layouts.com
         <div class="footer17-sub pt-5">
             <div class="container py-md-5 py-4">
                 <div class="text-center mb-4">
-                    <a class="footer-logo" href="index.html">StarMatch</a>
+                    <a class="footer-logo" href="{{route('/')}}">StarMatch</a>
                 </div>
                <div class="row footer17-top mt-5 pt-md-5 pt-sm-4">
                     <div class="col-md-3 col-6">
@@ -116,6 +115,7 @@ Author URL: http://w3layouts.com
                             <ul>
                                 <li><a href="services.html">andresc.gomez@upb.edu.co</a></li>
                                 <li><a href="services.html">daniel.moralesr@upb.edu.co</a></li>
+                                <li><a href="services.html">samir.colpas@upb.edu.co</a></li>
                             </ul>
                         </div>
                     </div>
@@ -161,7 +161,7 @@ Author URL: http://w3layouts.com
 
 
     <!-- theme switch js (light and dark)-->
-    <script src="assets/js/theme-change.js"></script>
+    <script src="{{ asset('js/theme-change.js'); }}"></script>
     <script>
         function autoType(elementClass, typingSpeed) {
             var thhis = $(elementClass);
@@ -229,7 +229,7 @@ Author URL: http://w3layouts.com
     <!-- //MENU-JS -->
 
     <!-- common jquery plugin -->
-    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="{{ asset('js/jquery-3.3.1.min.js'); }}"></script>
     <!-- //common jquery plugin -->
     
     <!-- disable body scroll which navbar is in active -->
@@ -243,7 +243,7 @@ Author URL: http://w3layouts.com
     <!-- //disable body scroll which navbar is in active -->
 
     <!--bootstrap-->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="{{ asset('js/bootstrap.min.js'); }}"></script>
     <!-- //bootstrap-->
     <!-- //Js scripts -->
 

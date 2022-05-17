@@ -25,7 +25,7 @@ Author URL: http://w3layouts.com
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg stroke">
                 <h1>
-                    <a class="navbar-brand d-flex align-items-center" href="index.blade.php">
+                    <a class="navbar-brand d-flex align-items-center" href="{{route('/')}}">
                         StarMatch</a>
                 </h1>
                 <!-- if logo is image enable this   
@@ -66,7 +66,7 @@ Author URL: http://w3layouts.com
             <div class="container py-lg-5 py-sm-4 mt-5">
                 <h4 class="inner-text-title font-weight-bold mb-2">Armas</h4>
                 <ul class="breadcrumbs-custom-path">
-                    <li><a href="index.blade.php">Inicio</a></li>
+                    <li><a href="{{route('/')}}">Inicio</a></li>
                     <li class="active"><span class="fa fa-chevron-right mx-2" aria-hidden="true"></span>Armas
                     </li>
                 </ul>
@@ -143,7 +143,7 @@ Author URL: http://w3layouts.com
             <div class="footer17-sub pt-5">
                 <div class="container py-md-5 py-4">
                     <div class="text-center mb-4">
-                        <a class="footer-logo" href="index.blade.php">StarMatch</a>
+                        <a class="footer-logo" href="{{route('/')}}">StarMatch</a>
                     </div>
                    <div class="row footer17-top mt-5 pt-md-5 pt-sm-4">
                         <div class="col-md-3 col-6">

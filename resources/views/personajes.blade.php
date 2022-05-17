@@ -10,14 +10,13 @@ Author URL: http://w3layouts.com
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>StarMatch - Personajes</title>
-    <script src="assets/js/main.js"></script>
     <!-- google-fonts -->
     <link href="//fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link href="//fonts.googleapis.com/css2?family=Halant:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link href="//fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <!-- //google-fonts -->
     <!-- Template CSS Style link -->
-    <link rel="stylesheet" href="assets/css/style-starter.css">
+    <link rel="stylesheet" href="{{ asset('css/style-starter.css'); }}">
 </head>
 
 <body>
@@ -80,7 +79,7 @@ Author URL: http://w3layouts.com
         <div class="container py-md-5 py-sm-4">
             <div class="row">
                 <div class="col-lg-6 left-wthree-img mb-lg-0 mb-md-5 mb-4">
-                    <img class="img-fluid img-responsive" src="assets/images/kayo.jpg" alt=" ">
+                    <img class="img-fluid img-responsive" src="images/kayo.jpg" alt=" ">
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
                     <h6 class="left-text-design">Personajes </h6>
@@ -92,7 +91,7 @@ Author URL: http://w3layouts.com
             </div>
             <div class="row mt-5 pt-lg-4">
                 <div class="col-lg-6 left-wthree-img mb-lg-0 mb-md-5 mb-4 order-lg-last">
-                    <img class="img-fluid img-responsive" src="assets/images/jett.jpg" alt=" ">
+                    <img class="img-fluid img-responsive" src="images/jett.jpg" alt=" ">
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
                     <h6 class="left-text-design">Personajes </h6>
@@ -104,7 +103,7 @@ Author URL: http://w3layouts.com
             </div>
             <div class="row">
                 <div class="col-lg-6 left-wthree-img mb-lg-0 mb-md-5 mb-4">
-                    <img class="img-fluid img-responsive" src="assets/images/yoru.jpg" alt=" ">
+                    <img class="img-fluid img-responsive" src="images/yoru.jpg" alt=" ">
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
                     <h6 class="left-text-design">Personajes </h6>
@@ -116,7 +115,7 @@ Author URL: http://w3layouts.com
             </div>
             <div class="row mt-5 pt-lg-4">
                 <div class="col-lg-6 left-wthree-img mb-lg-0 mb-md-5 mb-4 order-lg-last">
-                    <img class="img-fluid img-responsive" src="assets/images/killjoy.jpg" alt=" ">
+                    <img class="img-fluid img-responsive" src="images/killjoy.jpg" alt=" ">
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
                     <h6 class="left-text-design">Personajes </h6>
@@ -183,7 +182,7 @@ Author URL: http://w3layouts.com
             <div class="footer17-sub pt-5">
                 <div class="container py-md-5 py-4">
                     <div class="text-center mb-4">
-                        <a class="footer-logo" href="index.html">StarMatch</a>
+                        <a class="footer-logo" href="{{route('/')}}">StarMatch</a>
                     </div>
                    <div class="row footer17-top mt-5 pt-md-5 pt-sm-4">
                         <div class="col-md-3 col-6">
@@ -197,6 +196,7 @@ Author URL: http://w3layouts.com
                                 <ul>
                                     <li><a href="services.html">andresc.gomez@upb.edu.co</a></li>
                                     <li><a href="services.html">daniel.moralesr@upb.edu.co</a></li>
+                                    <li><a href="services.html">samir.colpas@upb.edu.co</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -242,7 +242,7 @@ Author URL: http://w3layouts.com
  
 
     <!-- theme switch js (light and dark)-->
-    <script src="assets/js/theme-change.js"></script>
+    <script src="{{ asset('js/theme-change.js'); }}"></script>
     <script>
         function autoType(elementClass, typingSpeed) {
             var thhis = $(elementClass);
@@ -283,7 +283,7 @@ Author URL: http://w3layouts.com
     <!-- MENU-JS -->
 
         <!-- common jquery plugin -->
-    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="{{ asset('js/jquery-3.3.1.min.js'); }}"></script>
     <!-- //common jquery plugin -->
     
     <script>
@@ -325,7 +325,7 @@ Author URL: http://w3layouts.com
     <!-- //disable body scroll which navbar is in active -->
 
     <!--bootstrap-->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="{{ asset('js/bootstrap.min.js'); }}"></script>
     <!-- //bootstrap-->
     <!-- //Js scripts -->
 
