@@ -2,6 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\IndexController;
+use App\Http\Controllers\ArmasController;
+use App\Http\Controllers\PersonajesController;
+use App\Http\Controllers\APIController;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -15,6 +18,13 @@ use App\Http\Controllers\IndexController;
 
 
 Route::get('/', [App\Http\Controllers\IndexController::class, '__invoke'])->name('/');
+
+Route::get('/', [App\Http\Controllers\APIController::class, '__invoke'])->name('/API');
+
+Route::get('/', [App\Http\Controllers\PersonajesController::class, '__invoke'])->name('/Personajes');
+
+Route::get('/', [App\Http\Controllers\ArmasController::class, '__invoke'])->name('/Armas');
+
 
 Route::get('/dashboard', function () {
     return view('dashboard');
