@@ -91,7 +91,7 @@ Author URL: http://w3layouts.com
             </div>
             <div class="row mt-5 pt-lg-4">
                 <div class="col-lg-6 left-wthree-img mb-lg-0 mb-md-5 mb-4 order-lg-last">
-                    <img class="img-fluid img-responsive" src="images/jett.jpg" alt=" ">
+                    <img class="img-fluid img-responsive" src="images/jett.png" alt=" ">
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
                     <h6 class="left-text-design">Personajes </h6>
