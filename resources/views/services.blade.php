@@ -10,14 +10,13 @@ Author URL: http://w3layouts.com
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <title>StarMatch - Armas</title>
-    <script src="assets/js/main.js"></script>
     <!-- google-fonts -->
     <link href="//fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
     <link href="//fonts.googleapis.com/css2?family=Halant:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link href="//fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700;800&display=swap" rel="stylesheet">
     <!-- //google-fonts -->
     <!-- Template CSS Style link -->
-    <link rel="stylesheet" href="assets/css/style-starter.css">
+    <link rel="stylesheet" href="{{ asset('css/style-starter.css'); }}">
 </head>
 
 <body>
@@ -26,7 +25,7 @@ Author URL: http://w3layouts.com
         <div class="container-fluid">
             <nav class="navbar navbar-expand-lg stroke">
                 <h1>
-                    <a class="navbar-brand d-flex align-items-center" href="index.html">
+                    <a class="navbar-brand d-flex align-items-center" href="index.blade.php">
                         StarMatch</a>
                 </h1>
                 <!-- if logo is image enable this   
@@ -43,16 +42,16 @@ Author URL: http://w3layouts.com
                 <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                     <ul class="navbar-nav ml-lg-auto">
                         <li class="nav-item">
-                            <a class="nav-link" href="index.html">Inicio <span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="{{ route('inicio') }}">Inicio <span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="about.html">API Pokemon</a>
+                            <a class="nav-link" href="{{ route('API') }}">API Pokemon</a>
                         </li>
                         <li class="nav-item active">
-                            <a id="armas" class="nav-link">Armas</a>
+                            <a id="armas" class="nav-link" href="{{ route('Armas') }}">Armas</a>
                         </li>
                         <li class="nav-item">
-                            <a  id="personajes" class="nav-link">Personajes</a>
+                            <a  id="personajes" class="nav-link" href="{{ route('Personajes') }}">Personajes</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="login.html">Ingresar</a>
@@ -100,7 +99,7 @@ Author URL: http://w3layouts.com
             <div class="container py-lg-5 py-sm-4 mt-5">
                 <h4 class="inner-text-title font-weight-bold mb-2">Armas</h4>
                 <ul class="breadcrumbs-custom-path">
-                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="index.blade.php">Inicio</a></li>
                     <li class="active"><span class="fa fa-chevron-right mx-2" aria-hidden="true"></span>Armas
                     </li>
                 </ul>
@@ -119,7 +118,7 @@ Author URL: http://w3layouts.com
             <div class="row text-center mt-5 pt-5">
                 <div class="col-lg-4 col-md-6 grids-feature">
                     <div class="area-box">
-                        <img src="assets/images/vandal.png" alt="" class="img-fluid" />
+                        <img src="images/vandal.png" alt="" class="img-fluid" />
                         <h4><a href="#feature" class="title-head mt-4">Vandal</a></h4>
                         <p class="mt-3">Rifle especializado para muertes rapidas debido a su precisión, tener cuidado al disparar durante mucho tiempo ya que el control se pierde por completo, dejandote vulnerable</p>
                         <a href="#url" class="more btn btn-style mt-4">Read More </a>
@@ -127,7 +126,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-5 pt-md-0 pt-5">
                     <div class="area-box mt-md-0 mt-4">
-                        <img src="assets/images/Phantom.png" alt="" class="img-fluid" />
+                        <img src="images/Phantom.png" alt="" class="img-fluid" />
                         <h4><a href="#feature" class="title-head mt-4">Phantom</a></h4>
                         <p class="mt-3">Rifle para encuentros mas largos debido a su gran dispersión luego de unos cuantos tiros, aunque se puede disparar por ráfagas sin que deje de ser tan precisa</p>
                         <a href="#url" class="more btn btn-style mt-4">Read More </a>
@@ -135,7 +134,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-lg-0 mt-5 pt-lg-0 pt-5">
                     <div class="area-box mt-lg-0 mt-4">
-                        <img src="assets/images/Operator.png" alt="" class="img-fluid" />
+                        <img src="images/Operator.png" alt="" class="img-fluid" />
                         <h4><a href="#feature" class="title-head mt-4">Operator</a></h4>
                         <p class="mt-3">El arma más letal del juego debido a su poder y exactitud ya que es un francotirador que mata de un solo tiro, mucho cuidado...</p>
                         <a href="#url" class="more btn btn-style mt-4">Read More </a>
@@ -143,7 +142,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-5 pt-5">
                     <div class="area-box mt-4">
-                        <img src="assets/images/sheriff.png" alt="" class="img-fluid" />
+                        <img src="images/sheriff.png" alt="" class="img-fluid" />
                         <h4><a href="#feature" class="title-head mt-4">Sheriff</a></h4>
                         <p class="mt-3">La pistola con más poder de sus compañeras, este arma con 8 tiros tiene una precisión abismal y un poder ridiculo cuando se hacen tiros a la cabeza, sin duda tu mejor opción si no tienes un arma principal</p>
                         <a href="#url" class="more btn btn-style mt-4">Read More </a>
@@ -151,7 +150,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-5 pt-5">
                     <div class="area-box mt-4">
-                        <img src="assets/images/Odin.png" alt="" class="img-fluid" />
+                        <img src="images/Odin.png" alt="" class="img-fluid" />
                         <h4><a href="#feature" class="title-head mt-4">Odin</a></h4>
                         <p class="mt-3">Un arma con poco control pero con un cargador muy grande y mucho daño forman la ametralladora odín, ideal para defender a los jugadores que prefieren atacar al mismo tiempo en conjunto a un mismo site</p>
                         <a href="#url" class="more btn btn-style mt-4">Read More </a>
@@ -159,7 +158,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-5 pt-5">
                     <div class="area-box mt-4">
-                        <img src="assets/images/Judge" alt="" class="img-fluid" />
+                        <img src="images/Judge.png" alt="" class="img-fluid" />
                         <h4><a href="#feature" class="title-head mt-4">Judge</a></h4>
                         <p class="mt-3">Ligula quam tesque et libero ut justo, ultrices in. Ut eu leo non.
                             Duis sed et
@@ -177,7 +176,7 @@ Author URL: http://w3layouts.com
             <div class="footer17-sub pt-5">
                 <div class="container py-md-5 py-4">
                     <div class="text-center mb-4">
-                        <a class="footer-logo" href="index.html">StarMatch</a>
+                        <a class="footer-logo" href="index.blade.php">StarMatch</a>
                     </div>
                    <div class="row footer17-top mt-5 pt-md-5 pt-sm-4">
                         <div class="col-md-3 col-6">
@@ -191,6 +190,8 @@ Author URL: http://w3layouts.com
                                 <ul>
                                     <li><a href="services.html">andresc.gomez@upb.edu.co</a></li>
                                     <li><a href="services.html">daniel.moralesr@upb.edu.co</a></li>
+                                    <li><a href="services.html">samir.colpas@upb.edu.co</a></li>
+
                                 </ul>
                             </div>
                         </div>
@@ -236,7 +237,7 @@ Author URL: http://w3layouts.com
 
 
     <!-- theme switch js (light and dark)-->
-    <script src="assets/js/theme-change.js"></script>
+    <script src="{{ asset('js/theme-change.js'); }}"></script>
     <script>
         function autoType(elementClass, typingSpeed) {
             var thhis = $(elementClass);
@@ -304,7 +305,7 @@ Author URL: http://w3layouts.com
     <!-- //MENU-JS -->
 
     <!-- common jquery plugin -->
-    <script src="assets/js/jquery-3.3.1.min.js"></script>
+    <script src="{{ asset('js/jquery-3.3.1.min.js'); }}"></script>
     <!-- //common jquery plugin -->
     
     <!-- disable body scroll which navbar is in active -->
@@ -318,7 +319,7 @@ Author URL: http://w3layouts.com
     <!-- //disable body scroll which navbar is in active -->
 
     <!--bootstrap-->
-    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="{{ asset('js/bootstrap.min.js'); }}"></script>
     <!-- //bootstrap-->
     <!-- //Js scripts -->
 
