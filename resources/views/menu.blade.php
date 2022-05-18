@@ -18,6 +18,22 @@
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('register') }}">Registrate</a>
                         </li>
+                        <li class="nav-item">
+                            <div class="btn-group">
+                              <button type="button" class="btn btn-default dropdown-toggle"
+                                      data-toggle="dropdown">
+                                Título del botón <span class="caret"></span>
+                              </button>
+
+                              <ul class="dropdown-menu" role="menu">
+                                <li><a href="#">Acción #1</a></li>
+                                <li><a href="#">Acción #2</a></li>
+                                <li><a href="#">Acción #3</a></li>
+                                <li class="divider"></li>
+                                <li><a href="#">Acción #4</a></li>
+                              </ul>
+                            </div>
+                        </li>       
                         <!-- search button -->
                         <div class="search-right ml-lg-3">
                             <form action="#search" method="GET" class="search-box position-relative">
