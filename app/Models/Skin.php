@@ -13,6 +13,6 @@ class Skin extends Model
         'nombre_imagen',
         'nombre_paquete',
         'precio',
-        'arma',
+        'armas',
     ];
 }
