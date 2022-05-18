@@ -14,6 +14,7 @@ class CreateSkinsTable extends Migration
     public function up()
     {
         Schema::create('skins', function (Blueprint $table) {
+            $table->id();
             $table->string('nombre_imagen');
             $table->string('nombre_paquete');
             $table->string('precio');

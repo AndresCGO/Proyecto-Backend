@@ -88,7 +88,7 @@ Author URL: http://w3layouts.com
                         <img src="images/vandal.png" alt="" class="img-fluid" />
                         <h4><a href="#feature" class="title-head mt-4">Vandal</a></h4>
                         <p class="mt-3">Rifle especializado para muertes rapidas debido a su precisión, tener cuidado al disparar durante mucho tiempo ya que el control se pierde por completo, dejandote vulnerable</p>
-                        <a href="#url" class="more btn btn-style mt-4">Read More </a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-md-0 mt-5 pt-md-0 pt-5">
@@ -96,7 +96,7 @@ Author URL: http://w3layouts.com
                         <img src="images/Phantom.png" alt="" class="img-fluid" />
                         <h4><a href="#feature" class="title-head mt-4">Phantom</a></h4>
                         <p class="mt-3">Rifle para encuentros mas largos debido a su gran dispersión luego de unos cuantos tiros, aunque se puede disparar por ráfagas sin que deje de ser tan precisa</p>
-                        <a href="#url" class="more btn btn-style mt-4">Read More </a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-lg-0 mt-5 pt-lg-0 pt-5">
@@ -104,7 +104,7 @@ Author URL: http://w3layouts.com
                         <img src="images/Operator.png" alt="" class="img-fluid" />
                         <h4><a href="#feature" class="title-head mt-4">Operator</a></h4>
                         <p class="mt-3">El arma más letal del juego debido a su poder y exactitud ya que es un francotirador que mata de un solo tiro, mucho cuidado...</p>
-                        <a href="#url" class="more btn btn-style mt-4">Read More </a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-5 pt-5">
@@ -112,7 +112,7 @@ Author URL: http://w3layouts.com
                         <img src="images/sheriff.png" alt="" class="img-fluid" />
                         <h4><a href="#feature" class="title-head mt-4">Sheriff</a></h4>
                         <p class="mt-3">La pistola con más poder de sus compañeras, este arma con 8 tiros tiene una precisión abismal y un poder ridiculo cuando se hacen tiros a la cabeza, sin duda tu mejor opción si no tienes un arma principal</p>
-                        <a href="#url" class="more btn btn-style mt-4">Read More </a>
+                        
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-5 pt-5">
@@ -120,7 +120,7 @@ Author URL: http://w3layouts.com
                         <img src="images/Odin.png" alt="" class="img-fluid" />
                         <h4><a href="#feature" class="title-head mt-4">Odin</a></h4>
                         <p class="mt-3">Un arma con poco control pero con un cargador muy grande y mucho daño forman la ametralladora odín, ideal para defender a los jugadores que prefieren atacar al mismo tiempo en conjunto a un mismo site</p>
-                        <a href="#url" class="more btn btn-style mt-4">Read More </a>
+                       
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-6 grids-feature mt-5 pt-5">
@@ -130,7 +130,7 @@ Author URL: http://w3layouts.com
                         <p class="mt-3">Ligula quam tesque et libero ut justo, ultrices in. Ut eu leo non.
                             Duis sed et
                             dolor amet.</p>
-                        <a href="#url" class="more btn btn-style mt-4">Read More </a>
+                        
                     </div>
                 </div>
             </div>
