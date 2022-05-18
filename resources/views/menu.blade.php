@@ -13,10 +13,10 @@
                             <a id="personajes" class="nav-link" href="{{route('/Personajes')}}">Personajes</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="login.html">Ingresar</a>
+                            <a class="nav-link" href="{{route('login')}}">Ingresar</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="registro.html">Registrate</a>
+                            <a class="nav-link" href="{{ route('register') }}">Registrate</a>
                         </li>
                         <!-- search button -->
                         <div class="search-right ml-lg-3">
