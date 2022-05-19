@@ -83,7 +83,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
                     <h6 class="left-text-design">Personajes destacados</h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con Kay/o
+                    <h3 class="title-style mb-2 pl-4">Kay/o
                     </h3>
                     <p class="mt-3 pl-4">Él es uno de los controladores mas fuertes del juego, con su silencio puedes planear multiples estrategias para derrotar a tu enemigo, además de que posee una granada aturdidora que junto con el silencio lo vuelven un personaje aterrador</p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
@@ -95,7 +95,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
                     <h6 class="left-text-design">Personajes </h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con jett
+                    <h3 class="title-style mb-2 pl-4">jett
                     </h3>
                     <p class="mt-3 pl-4">Con ella podras ser un asesino muy veloz y escurridizo, jett posee un dash hacia un lado que le facilita sus escapes, además de que puede planear en el aire y un supersalto para despistar s tus enemigos, un agente sin igual.</p>
                     <p class="mt-3 pl-4">Más información</p>
@@ -107,7 +107,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
                     <h6 class="left-text-design">Personajes </h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con yoru
+                    <h3 class="title-style mb-2 pl-4">yoru
                     </h3>
                     <p class="mt-3 pl-4">Yoru es un agente que tiene una gran facilidad para flanquear al enemigo y destruirlo por completo, con su copia falsa que al estallar cega al enemigo es un agente formidable pero un poco complejo de manipular</p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
@@ -119,7 +119,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
                     <h6 class="left-text-design">Personajes </h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con killjoy
+                    <h3 class="title-style mb-2 pl-4">killjoy
                     </h3>
                     <p class="mt-3 pl-4">La reina de las trampas, killjoy con sus torretas y sus minas ocultas puede derretir por completo la vida del enemigo en segundos, cualidad la cual la vuelve perfecta para ser una defensa impenetrable.</p>
                     <p class="mt-3 pl-4">Más información</p>
@@ -137,7 +137,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
                     <h6 class="left-text-design">Personajes iniciadores</h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con reina
+                    <h3 class="title-style mb-2 pl-4">reina
                     </h3>
                     <p class="mt-3 pl-4">reina con sus capacidades de sobrecuración e invulnerabilidad, se vuelve una iniciadora tenaz y una asesina imparable, cuidado con ella</p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
@@ -149,7 +149,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
                     <h6 class="left-text-design">Personajes </h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con skye
+                    <h3 class="title-style mb-2 pl-4">skye
                     </h3>
                     <p class="mt-3 pl-4">la cegadora por excelencia skye, con sus multiples habilidades para flashear enemigos la vuelve perfecta para entrar a cualquier lugar de forma brutal, asegúrate de no mirar sus animales</p>
                     <p class="mt-3 pl-4">Más información</p>
@@ -161,7 +161,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
                     <h6 class="left-text-design">Personajes </h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con cypher
+                    <h3 class="title-style mb-2 pl-4">cypher
                     </h3>
                     <p class="mt-3 pl-4">cypher el detector, con sus carceles puede abrir una pequeña brecha para entrar a un punto para luego dominarlo por completo con su cámara y sus cables trampa, no te confies de ninguna esquina</p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
@@ -173,7 +173,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
                     <h6 class="left-text-design">Personajes </h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con fade
+                    <h3 class="title-style mb-2 pl-4">fade
                     </h3>
                     <p class="mt-3 pl-4">si la ves asegurate de correr, fade puede lanzar una habilidad que te persigue para luego segarte, seguido de un orbe que hace daño por segundo al estar cerca y una marca que deja tu rastro</p>
                     <p class="mt-3 pl-4">Más información</p>
@@ -190,7 +190,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
                     <h6 class="left-text-design">Personajes molestos</h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con phoenix
+                    <h3 class="title-style mb-2 pl-4">phoenix
                     </h3>
                     <p class="mt-3 pl-4">el incendiario phoenix, parece que tuviera multiples vidas ya que puede crear una copia de si mismo con la vida completa para ser manipulado además de que sus propias habilidades lo curan y su fuego hace mucho daño </p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
@@ -202,7 +202,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
                     <h6 class="left-text-design">Personajes </h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con viper
+                    <h3 class="title-style mb-2 pl-4">viper
                     </h3>
                     <p class="mt-3 pl-4">la corrocion encarnada, viper puede lanzar distas formas de veneno debilitando el enemigo al maximo, su mayor truco es una nube de veneno en un area que de permanecer mucho dentro te derrite la barra de vida</p>
                     <p class="mt-3 pl-4">Más información</p>
@@ -214,7 +214,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
                     <h6 class="left-text-design">Personajes </h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con chamber
+                    <h3 class="title-style mb-2 pl-4">chamber
                     </h3>
                     <p class="mt-3 pl-4">chamber tiene una movilidad sin igual, con sus puntos de teletransportacion puede moverse rapidamente entre 2 esquinas opuestas del mapa y teniendo encuenta que tiene un arsenal de armas muy grande gracias a sus habilidades, lo hace un personaje muy horroroso para jugar en contra</p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
@@ -226,7 +226,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
                     <h6 class="left-text-design">Personajes </h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con brimstone
+                    <h3 class="title-style mb-2 pl-4">brimstone
                     </h3>
                     <p class="mt-3 pl-4">el militar brimstone, es el mayor problema si de humos se trata ya que son de un gran tamaño y de larga duración, para colmo, su habilidad definitiva puede pulverizar a un equipo completo si estos se encuentran mal ubicados dentro del area de impacto</p>
                     <p class="mt-3 pl-4">Más información</p>
