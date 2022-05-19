@@ -149,7 +149,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
                     <h6 class="left-text-design">Personajes </h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con jett
+                    <h3 class="title-style mb-2 pl-4">Tips con skye
                     </h3>
                     <p class="mt-3 pl-4">Con ella podras ser un asesino muy veloz y escurridizo, jett posee un dash hacia un lado que le facilita sus escapes, además de que puede planear en el aire y un supersalto para despistar s tus enemigos, un agente sin igual.</p>
                     <p class="mt-3 pl-4">Más información</p>
