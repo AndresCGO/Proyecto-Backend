@@ -139,7 +139,7 @@ Author URL: http://w3layouts.com
                     <h6 class="left-text-design">Personajes iniciadores</h6>
                     <h3 class="title-style mb-2 pl-4">Tips con reina
                     </h3>
-                    <p class="mt-3 pl-4"></p>
+                    <p class="mt-3 pl-4">reina con sus capacidades de sobrecuración e invulnerabilidad, se vuelve una iniciadora tenaz y una asesina imparable, cuidado con ella</p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
                 </div>
             </div>
