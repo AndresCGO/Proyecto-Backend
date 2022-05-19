@@ -216,7 +216,7 @@ Author URL: http://w3layouts.com
                     <h6 class="left-text-design">Personajes </h6>
                     <h3 class="title-style mb-2 pl-4">Tips con chamber
                     </h3>
-                    <p class="mt-3 pl-4">Yoru es un agente que tiene una gran facilidad para flanquear al enemigo y destruirlo por completo, con su copia falsa que al estallar cega al enemigo es un agente formidable pero un poco complejo de manipular</p>
+                    <p class="mt-3 pl-4">chamber tiene una movilidad sin igual, con sus puntos de teletransportacion puede moverse rapidamente entre 2 esquinas opuestas del mapa y teniendo encuenta que tiene un arsenal de armas muy grande gracias a sus habilidades, lo hace un personaje muy horroroso para jugar en contra</p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
                 </div>
             </div>
