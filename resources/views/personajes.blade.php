@@ -161,7 +161,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
                     <h6 class="left-text-design">Personajes </h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con yoru
+                    <h3 class="title-style mb-2 pl-4">Tips con cypher
                     </h3>
                     <p class="mt-3 pl-4">Yoru es un agente que tiene una gran facilidad para flanquear al enemigo y destruirlo por completo, con su copia falsa que al estallar cega al enemigo es un agente formidable pero un poco complejo de manipular</p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
