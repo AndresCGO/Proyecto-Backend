@@ -192,7 +192,7 @@ Author URL: http://w3layouts.com
                     <h6 class="left-text-design">Personajes molestos</h6>
                     <h3 class="title-style mb-2 pl-4">Tips con phoenix
                     </h3>
-                    <p class="mt-3 pl-4">Él es uno de los controladores mas fuertes del juego, con su silencio puedes planear multiples estrategias para derrotar a tu enemigo, además de que posee una granada aturdidora que junto con el silencio lo vuelven un personaje aterrador</p>
+                    <p class="mt-3 pl-4">el incendiario phoenix, parece que tuviera multiples vidas ya que puede crear una copia de si mismo con la vida completa para ser manipulado además de que sus propias habilidades lo curan y su fuego hace mucho daño </p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
                 </div>
             </div>
