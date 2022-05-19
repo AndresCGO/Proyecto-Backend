@@ -190,7 +190,7 @@ Author URL: http://w3layouts.com
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
                     <h6 class="left-text-design">Personajes más agresivos</h6>
-                    <h3 class="title-style mb-2 pl-4">Tips con Kay/o
+                    <h3 class="title-style mb-2 pl-4">Tips con phoenix
                     </h3>
                     <p class="mt-3 pl-4">Él es uno de los controladores mas fuertes del juego, con su silencio puedes planear multiples estrategias para derrotar a tu enemigo, además de que posee una granada aturdidora que junto con el silencio lo vuelven un personaje aterrador</p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
