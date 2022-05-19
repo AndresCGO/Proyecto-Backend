@@ -163,7 +163,7 @@ Author URL: http://w3layouts.com
                     <h6 class="left-text-design">Personajes </h6>
                     <h3 class="title-style mb-2 pl-4">Tips con cypher
                     </h3>
-                    <p class="mt-3 pl-4">Yoru es un agente que tiene una gran facilidad para flanquear al enemigo y destruirlo por completo, con su copia falsa que al estallar cega al enemigo es un agente formidable pero un poco complejo de manipular</p>
+                    <p class="mt-3 pl-4">cypher el detector, con sus carceles puede abrir una pequeña brecha para entrar a un punto para luego dominarlo por completo con su cámara y sus cables trampa, no te confies de ninguna esquina</p>
                     <p class="mt-3 pl-4">Descubre más aquí</p>
                 </div>
             </div>
