@@ -175,7 +175,7 @@ Author URL: http://w3layouts.com
                     <h6 class="left-text-design">Personajes </h6>
                     <h3 class="title-style mb-2 pl-4">Tips con fade
                     </h3>
-                    <p class="mt-3 pl-4">La reina de las trampas, killjoy con sus torretas y sus minas ocultas puede derretir por completo la vida del enemigo en segundos, cualidad la cual la vuelve perfecta para ser una defensa impenetrable.</p>
+                    <p class="mt-3 pl-4">si la ves asegurate de correr, fade puede lanzar una habilidad que te persigue para luego segarte, seguido de un orbe que hace daño por segundo al estar cerca y una marca que deja tu rastro</p>
                     <p class="mt-3 pl-4">Más información</p>
                 </div>
             </div>
