@@ -228,7 +228,7 @@ Author URL: http://w3layouts.com
                     <h6 class="left-text-design">Personajes </h6>
                     <h3 class="title-style mb-2 pl-4">Tips con brimstone
                     </h3>
-                    <p class="mt-3 pl-4">La reina de las trampas, killjoy con sus torretas y sus minas ocultas puede derretir por completo la vida del enemigo en segundos, cualidad la cual la vuelve perfecta para ser una defensa impenetrable.</p>
+                    <p class="mt-3 pl-4">el militar brimstone, es el mayor problema si de humos se trata ya que son de un gran tamaño y de larga duración, para colmo, su habilidad definitiva puede pulverizar a un equipo completo si estos se encuentran mal ubicados dentro del area de impacto</p>
                     <p class="mt-3 pl-4">Más información</p>
                 </div>
             </div>
