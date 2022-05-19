@@ -204,7 +204,7 @@ Author URL: http://w3layouts.com
                     <h6 class="left-text-design">Personajes </h6>
                     <h3 class="title-style mb-2 pl-4">Tips con viper
                     </h3>
-                    <p class="mt-3 pl-4">Con ella podras ser un asesino muy veloz y escurridizo, jett posee un dash hacia un lado que le facilita sus escapes, además de que puede planear en el aire y un supersalto para despistar s tus enemigos, un agente sin igual.</p>
+                    <p class="mt-3 pl-4">la corrocion encarnada, viper puede lanzar distas formas de veneno debilitando el enemigo al maximo, su mayor truco es una nube de veneno en un area que de permanecer mucho dentro te derrite la barra de vida</p>
                     <p class="mt-3 pl-4">Más información</p>
                 </div>
             </div>
