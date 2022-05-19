@@ -82,7 +82,7 @@ Author URL: http://w3layouts.com
                     <img class="img-fluid img-responsive" src="images/kayo.jpg" alt=" ">
                 </div>
                 <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
-                    <h6 class="left-text-design">Personajes </h6>
+                    <h6 class="left-text-design">Personajes destacados </h6>
                     <h3 class="title-style mb-2 pl-4">Tips con Kay/o
                     </h3>
                     <p class="mt-3 pl-4">Él es uno de los controladores mas fuertes del juego, con su silencio puedes planear multiples estrategias para derrotar a tu enemigo, además de que posee una granada aturdidora que junto con el silencio lo vuelven un personaje aterrador</p>
@@ -126,7 +126,61 @@ Author URL: http://w3layouts.com
                 </div>
             </div>
         </div>
-    </section> 
+    </section>
+
+     <!-- personajes -->
+    <section class="w3l-aboutblock py-5">
+        <div class="container py-md-5 py-sm-4">
+            <div class="row">
+                <div class="col-lg-6 left-wthree-img mb-lg-0 mb-md-5 mb-4">
+                    <img class="img-fluid img-responsive" src="images/kayo.jpg" alt=" ">
+                </div>
+                <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
+                    <h6 class="left-text-design">Personajes que brindan mayor soporte</h6>
+                    <h3 class="title-style mb-2 pl-4">Tips con Kay/o
+                    </h3>
+                    <p class="mt-3 pl-4">Él es uno de los controladores mas fuertes del juego, con su silencio puedes planear multiples estrategias para derrotar a tu enemigo, además de que posee una granada aturdidora que junto con el silencio lo vuelven un personaje aterrador</p>
+                    <p class="mt-3 pl-4">Descubre más aquí</p>
+                </div>
+            </div>
+            <div class="row mt-5 pt-lg-4">
+                <div class="col-lg-6 left-wthree-img mb-lg-0 mb-md-5 mb-4 order-lg-last">
+                    <img class="img-fluid img-responsive" src="images/jett.png" alt=" ">
+                </div>
+                <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
+                    <h6 class="left-text-design">Personajes </h6>
+                    <h3 class="title-style mb-2 pl-4">Tips con jett
+                    </h3>
+                    <p class="mt-3 pl-4">Con ella podras ser un asesino muy veloz y escurridizo, jett posee un dash hacia un lado que le facilita sus escapes, además de que puede planear en el aire y un supersalto para despistar s tus enemigos, un agente sin igual.</p>
+                    <p class="mt-3 pl-4">Más información</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 left-wthree-img mb-lg-0 mb-md-5 mb-4">
+                    <img class="img-fluid img-responsive" src="images/yoru.jpg" alt=" ">
+                </div>
+                <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5">
+                    <h6 class="left-text-design">Personajes </h6>
+                    <h3 class="title-style mb-2 pl-4">Tips con yoru
+                    </h3>
+                    <p class="mt-3 pl-4">Yoru es un agente que tiene una gran facilidad para flanquear al enemigo y destruirlo por completo, con su copia falsa que al estallar cega al enemigo es un agente formidable pero un poco complejo de manipular</p>
+                    <p class="mt-3 pl-4">Descubre más aquí</p>
+                </div>
+            </div>
+            <div class="row mt-5 pt-lg-4">
+                <div class="col-lg-6 left-wthree-img mb-lg-0 mb-md-5 mb-4 order-lg-last">
+                    <img class="img-fluid img-responsive" src="images/killjoy.jpg" alt=" ">
+                </div>
+                <div class="col-lg-6 about-right-faq align-self position-relative pl-lg-5 order-lg-first">
+                    <h6 class="left-text-design">Personajes </h6>
+                    <h3 class="title-style mb-2 pl-4">Tips con killjoy
+                    </h3>
+                    <p class="mt-3 pl-4">La reina de las trampas, killjoy con sus torretas y sus minas ocultas puede derretir por completo la vida del enemigo en segundos, cualidad la cual la vuelve perfecta para ser una defensa impenetrable.</p>
+                    <p class="mt-3 pl-4">Más información</p>
+                </div>
+            </div>
+        </div>
+    </section>  
 
     <!-- //contact -->
 
