@@ -151,7 +151,7 @@ Author URL: http://w3layouts.com
                     <h6 class="left-text-design">Personajes </h6>
                     <h3 class="title-style mb-2 pl-4">Tips con skye
                     </h3>
-                    <p class="mt-3 pl-4">Con ella podras ser un asesino muy veloz y escurridizo, jett posee un dash hacia un lado que le facilita sus escapes, además de que puede planear en el aire y un supersalto para despistar s tus enemigos, un agente sin igual.</p>
+                    <p class="mt-3 pl-4">la cegadora por excelencia skye, con sus multiples habilidades para flashear enemigos la vuelve perfecta para entrar a cualquier lugar de forma brutal, asegúrate de no mirar sus animales</p>
                     <p class="mt-3 pl-4">Más información</p>
                 </div>
             </div>
