@@ -67,5 +67,14 @@ class SkinSeeder extends Seeder
         $skin6->precio = "8700 PV (~$85)";56
 
         $skin6->save();
+
+        $skin7 = new Skin();
+
+        $skin7->nombre_imagen = "Ruination.png";
+        $skin7->nombre_paquete = "Ruination";
+        $skin7->armas = "Ghost,Guardian,Phantom,Spectre,Melee";
+        $skin7->precio = "8700 PV (~$85)";56
+
+        $skin7->save();
     }
 }
