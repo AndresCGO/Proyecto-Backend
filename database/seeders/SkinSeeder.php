@@ -103,5 +103,14 @@ class SkinSeeder extends Seeder
         $skin10->precio = "6992 PV (~$85)";56
 
         $skin10->save();
+
+        $skin11 = new Skin();
+
+        $skin11->nombre_imagen = "EGO.png";
+        $skin11->nombre_paquete = "EGO";
+        $skin11->armas = "Ghost,Guardian,Stinger,Vandal,Melee";
+        $skin11->precio = "6992 PV (~$85)";56
+
+        $skin11->save();
     }
 }
