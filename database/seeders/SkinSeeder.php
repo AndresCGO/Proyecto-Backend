@@ -58,5 +58,14 @@ class SkinSeeder extends Seeder
         $skin5->precio = "10 700 PV (~$100)";5
 
         $skin5->save();
+
+        $skin6 = new Skin();
+
+        $skin6->nombre_imagen = "RGX.png";
+        $skin6->nombre_paquete = "RGX 11z Pro";
+        $skin6->armas = "Frenzy,Vandal,Guardian,Stinger,Melee";
+        $skin6->precio = "8700 PV (~$85)";56
+
+        $skin6->save();
     }
 }
