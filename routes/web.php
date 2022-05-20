@@ -24,7 +24,7 @@ Route::get('/API', [App\Http\Controllers\APIController::class, '__invoke'])->nam
 
 Route::get('/Personajes', [App\Http\Controllers\PersonajesController::class, '__invoke'])->name('/Personajes');
 
-Route::get('/Armas', [App\Http\Controllers\ArmasController::class, '__invoke'])->name('/Armas');
+Route::get('/Armas', [App\Http\Controllers\ArmasController::class, '__invoke'])->middleware(['auth'])->name('/Armas');
 
 Route::get('/dashboard', function () {
     return view('dashboard');
