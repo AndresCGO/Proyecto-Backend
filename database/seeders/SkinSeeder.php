@@ -85,5 +85,14 @@ class SkinSeeder extends Seeder
         $skin8->precio = "8700 PV (~$85)";56
 
         $skin8->save();
+
+        $skin9 = new Skin();
+
+        $skin9->nombre_imagen = "Sentinels.png";
+        $skin9->nombre_paquete = "Sentinels of Light";
+        $skin9->armas = "Ares,Operator,Sheriff,Vandal,Melee";
+        $skin9->precio = "8700 PV (~$85)";56
+
+        $skin9->save();
     }
 }
