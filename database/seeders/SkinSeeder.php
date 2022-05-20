@@ -76,5 +76,14 @@ class SkinSeeder extends Seeder
         $skin7->precio = "8700 PV (~$85)";56
 
         $skin7->save();
+
+        $skin8 = new Skin();
+
+        $skin8->nombre_imagen = "Singularity.png";
+        $skin8->nombre_paquete = "Singularity";
+        $skin8->armas = "Ares,Phantom,Sheriff,Spectre,Melee";
+        $skin8->precio = "8700 PV (~$85)";56
+
+        $skin8->save();
     }
 }
