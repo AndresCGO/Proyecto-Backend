@@ -40,5 +40,14 @@ class SkinSeeder extends Seeder
         $skin3->precio = "10 700 PV (~$100)";
 
         $skin3->save();
+
+        $skin4 = new Skin();
+
+        $skin4->nombre_imagen = "Glitchpop.png";
+        $skin4->nombre_paquete = "Glitchpop";
+        $skin4->armas = "Frenzy,Judge,Bulldog,Odin,Meele";
+        $skin4->precio = "10 700 PV (~$100)";
+
+        $skin4->save();
     }
 }
