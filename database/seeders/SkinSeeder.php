@@ -94,5 +94,14 @@ class SkinSeeder extends Seeder
         $skin9->precio = "8700 PV (~$85)";56
 
         $skin9->save();
+
+        $skin10 = new Skin();
+
+        $skin10->nombre_imagen = "Doodle.png";
+        $skin10->nombre_paquete = "Doodle Buds";
+        $skin10->armas = "Ares,Marshal,Phantom,Shorty,Stinger";
+        $skin10->precio = "6992 PV (~$85)";56
+
+        $skin10->save();
     }
 }
