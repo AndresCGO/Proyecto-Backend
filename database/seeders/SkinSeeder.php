@@ -22,5 +22,14 @@ class SkinSeeder extends Seeder
         $skin1->precio="10700 PV (~$100)";
 
         $skin1->save();
+
+        $skin2 = new Skin();
+
+        $skin2->nombre_imagen = "Protocol.png";
+        $skin2->nombre_paquete = "Protocol 781-A";
+        $skin2->armas = "Bulldog,Phantom,Sheriff,Spectre,Melee";
+        $skin2->precio = "10 700 PV (~$100)";
+
+        $skin2->save();
     }
 }
