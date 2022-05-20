@@ -31,5 +31,14 @@ class SkinSeeder extends Seeder
         $skin2->precio = "10 700 PV (~$100)";
 
         $skin2->save();
+
+        $skin3 = new Skin();
+
+        $skin3->nombre_imagen = "BlastX.png";
+        $skin3->nombre_paquete = "BlastX";
+        $skin3->armas = "Frenzy,Odin,Phantom,Spectre,Meele";
+        $skin3->precio = "10 700 PV (~$100)";
+
+        $skin3->save();
     }
 }
