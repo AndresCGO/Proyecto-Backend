@@ -66,8 +66,8 @@ Author URL: http://w3layouts.com
             <div class="container py-lg-5 py-sm-4 mt-5">
                 <h4 class="inner-text-title font-weight-bold mb-2">Personajes</h4>
                 <ul class="breadcrumbs-custom-path">
-                    <li><a href="index.html">Home</a></li>
-                    <li class="active"><span class="fa fa-chevron-right mx-2" aria-hidden="true"></span> Contact Us</li>
+                    <li><a href="{{route('/')}}">Inicio</a></li>
+                    <li class="active"><span class="fa fa-chevron-right mx-2" aria-hidden="true"></span> Personajes</li>
                 </ul>
             </div>
         </section>
