@@ -12,12 +12,6 @@
                         <li class="nav-item">
                             <a id="personajes" class="nav-link" href="{{route('/Personajes')}}">Personajes</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="{{route('login')}}">Ingresar</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="{{ route('register') }}">Registrate</a>
-                        </li>
                         <!-- search button -->
                         <div class="search-right ml-lg-3">
                             <form action="#search" method="GET" class="search-box position-relative">
